@@ -28,7 +28,7 @@ Push to the branch (git push origin improve-feature)\
 Create a Pull Request
 
 ## Bug / Feature Request
-If you find a bug or you'd like to request a new function, kindly open an issue feel free to do so by opening an issue [here](https://github.com/ayush-020198/graphql-server/issues/new).\
+If you find a bug or you'd like to request a new function, free to do so by opening an issue [here](https://github.com/ayush-020198/graphql-server/issues/new).\
 Please include sample queries and their corresponding results.
 
 ## Contributing
