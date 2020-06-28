@@ -32,5 +32,5 @@ If you find a bug or you'd like to request a new function, kindly open an issue 
 Please include sample queries and their corresponding results.
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.\
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. \
 Please make sure to update tests as appropriate.
