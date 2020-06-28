@@ -1,4 +1,4 @@
-##Book library with Graphql-server
+## Book library with Graphql-server
 This server works with GraphQL schema built with GraphQL.js.\ 
 It helps you to build your schema in a more convenient way with the help of graphql-tools.
 
