@@ -1,11 +1,14 @@
 # Book library with Graphql-server
-This server works with GraphQL schema built with GraphQL.js.\ 
-It helps you to build your schema in a more convenient way with the help of graphql-tools.
+This server works with GraphQL schema built with GraphQL.js.
+
+## Usage 
+It helps you to build your schema in a more convenient way with the help of graphql-tools.\
+Integration of graphql is made easy here so you can take the advantage.
 
 
 ## Principles
 Simplicity: By keeping things simple, it is more secure and easier to implement and contribute.\
-Performance: It is well-tested but your contribution is always weclomed.
+Performance: It is well-tested but your contribution is always welcomed.
 
 ## Advantage over Express
 No need to make several routes for request handling like Express.
